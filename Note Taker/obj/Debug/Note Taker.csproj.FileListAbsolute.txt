@@ -1,0 +1,11 @@
+C:\Users\motor\source\repos\Note Taker\Note Taker\bin\Debug\Note Taker.exe.config
+C:\Users\motor\source\repos\Note Taker\Note Taker\bin\Debug\Note Taker.exe
+C:\Users\motor\source\repos\Note Taker\Note Taker\bin\Debug\Note Taker.pdb
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note Taker.csproj.AssemblyReference.cache
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note_Taker.Form1.resources
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note_Taker.Form2.resources
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note_Taker.Properties.Resources.resources
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note Taker.csproj.GenerateResource.cache
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note Taker.csproj.CoreCompileInputs.cache
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note Taker.exe
+C:\Users\motor\source\repos\Note Taker\Note Taker\obj\Debug\Note Taker.pdb
