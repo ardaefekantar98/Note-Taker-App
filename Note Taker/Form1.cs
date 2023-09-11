@@ -82,5 +82,14 @@ namespace Note_Taker
                 textBox2.Text = note3;
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.RemoveAt(comboBox1.SelectedIndex);
+            comboBox1.ResetText();
+            textBox1.Clear();
+            textBox2.Clear();
+            noteCount--;
+        }
     }
 }
